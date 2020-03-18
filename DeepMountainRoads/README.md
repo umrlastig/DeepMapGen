@@ -1,8 +1,8 @@
-# DeepMapGen
+# DeepMountainRoads
 
 ![logo](logo_deepmapgen_small2.png)
 
-Python library for deep learning based map generalisation.
+This folder contains research on the generalization of mountain roads.
 
 Please visit the [website][1] for more details.
 

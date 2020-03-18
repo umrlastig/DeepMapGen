@@ -1,8 +1,8 @@
-# DeepMapGen
+# DeepMapContent
 
 ![logo](logo_deepmapgen_small2.png)
 
-Python library for deep learning based map generalisation.
+This folder contains research on the inferrence of the content/scale/extent of a map from the image of the map.
 
 Please visit the [website][1] for more details.
 
