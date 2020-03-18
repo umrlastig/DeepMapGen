@@ -9,8 +9,11 @@ DeepMapGen unites several projects that make use of deep learning for map genera
 * [DeepMountainRoads][4]: classification and segmentation to detect highway interchanges in vector road networks.
 * [DeepMapContent][5]: inference of the scale, extent, and content of a map, using classification techniques on its image.
 
+DeepMapGen is complementary to [CartAGen][6], the open Java platform for map generalization also developed in the research team.
+
 [1]: https://umrlastig.github.io/geovis/
 [2]: https://umrlastig.github.io/
 [3]: DeepInterchange.md
 [4]: DeepMountainRoads.md
 [5]: DeepMapContent.md
+[6]: https://github.com/IGNF/CartAGen
