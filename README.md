@@ -1,4 +1,7 @@
 # DeepMapGen
+
+![logo](images/logo_deepmapgen_small2.png)
+
 Python library for deep learning based map generalisation.
 
 Please visit the [website][1] for more details.
