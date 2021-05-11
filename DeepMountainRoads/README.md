@@ -1,8 +1,9 @@
 
-# This work is a model for mountain roads generalisation adapted from cycleGAN that constrain the connectivity measure of input and prediction to be similare.  
+# This work is a model for mountain roads generalisation adapted from cycleGAN.
+It constrains the connectivity measure of input and prediction to be similare.  
 This model is presented in the article "Generative Adversarial Networks for Map Generalisation: Better Use Unsupervised Architectures" (not yet published)
 
-# To utilize it and reproduc  the paper results
+# To utilize it and reproduce  the paper results
 
 1. Clone the cycleGAN and Pix2pix PyTorch implementation : git clone https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 2. Install "cycleGAN and Pix2pix PyTorch implementation" dependencies following the read me information. 
