@@ -1,7 +1,7 @@
 
 # This work is a model for mountain roads generalisation adapted from cycleGAN.
 It constrains the connectivity measure of input and prediction to be similare.  
-This model is presented in the article "Generative Adversarial Networks for Map Generalisation: Better Use Unsupervised Architectures" (not yet published)
+This model is presented in the article "Deriving map images of generalised mountain roads with generative adversarial networks." (not yet published)
 
 # To utilize it and reproduce  the paper results
 
